@@ -1,5 +1,6 @@
 ### Пробелы вместо табуляций
 windows -> preferences -> general -> editors -> text editors -> ставим галочку на insert spaces for tabs
+
 windows -> preferences -> PHP -> code style -> formatter -> выставляем tab policy = spaces, indentation size = 4
 
 ### Устанавливаем Aptana Studio 3 Plugin
@@ -7,6 +8,7 @@ help -> install new software... -> add -> location = http://download.aptana.com/
 
 ### Настройка форматирования в aptana studio
 windows -> preferences -> aptana studio -> formatter -> import ... -> выбираем файл -> ok
+
 Запуск форматирования CTRL+SHIFT+F
 
 ### Установка git (EGit и JGit)
